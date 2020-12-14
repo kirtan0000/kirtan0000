@@ -12,3 +12,5 @@
 <img src="https://www.clipartmax.com/png/full/218-2181371_logo-git-git-icon.png" width="66" height="64"></img>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_apache_icon_130750.png" width="66" height="64"></img>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" width="66" height="66"></img>
+<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/unityeditoricon_94269.png" width="66" height="63"></img>
+<img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="65" height="65"></img>
