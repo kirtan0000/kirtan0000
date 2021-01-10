@@ -2,8 +2,8 @@
 ## My name is Kirtan Magan
 #### I like developing apps, games, and software.
 ### Here is my website: https://www.raakeshpatel.com
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan0000&langs_count=8"></img>
-<img src = "https://github-readme-stats.vercel.app/api?username=kirtan0000" alt = "Metrics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan0000&langs_count=8&theme=radical"></img>
+<img src = "https://github-readme-stats.vercel.app/api?username=kirtan0000&theme=radical" alt = "Metrics">
 <br>
 <img src="https://www.flaticon.com/svg/static/icons/svg/174/174854.svg" width="63" height="63"></img>
 <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" width="65" height="60"></img>
