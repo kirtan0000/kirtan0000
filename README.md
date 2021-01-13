@@ -2,6 +2,8 @@
 ## My name is Kirtan Magan
 #### I like developing apps, games, and software.
 ### Here is my website: https://www.raakeshpatel.com
+### Here is play store account: https://play.google.com/store/apps/dev?id=7922918498396614328
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan0000&langs_count=8&theme=radical"></img>
 <img src = "https://github-readme-stats.vercel.app/api?username=kirtan0000&theme=radical" alt = "Metrics">
 <br>
