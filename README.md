@@ -1,6 +1,5 @@
 # Hi there 👋
 ## My name is Kirtan Magan
-#### I like developing apps, games, and software.
 ### Here is my website: https://www.raakeshpatel.com
 ### Here is play store account: https://play.google.com/store/apps/dev?id=7922918498396614328
 
