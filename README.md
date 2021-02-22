@@ -19,6 +19,6 @@
 <img src="https://www.clipartmax.com/png/full/218-2181371_logo-git-git-icon.png" width="66" height="64"></img>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" width="66" height="66"></img>
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/unityeditoricon_94269.png" width="66" height="63"></img>
-<img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="65" height="65"></img>
+<img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="65" height="65"></img>
 <br>
 ![Profile views](https://komarev.com/ghpvc/?username=kirtan0000)
