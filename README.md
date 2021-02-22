@@ -4,7 +4,7 @@
 ### Google Docs Clone: https://www.raakeshpatel.com/documents/home/
 ### Google Slides Clone: https://google-slides-clone.raakeshpatel.com/
 ### ToDo List Web App: https://todo-app.raakeshpatel.com/
-### Here is play store account: https://play.google.com/store/apps/dev?id=7922918498396614328/
+### Here is play store account: https://play.google.com/store/apps/dev?id=7922918498396614328
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan0000&langs_count=8&theme=radical"></img>
 <img src = "https://github-readme-stats.vercel.app/api?username=kirtan0000&theme=radical" alt = "Metrics">
