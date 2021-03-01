@@ -1,7 +1,6 @@
 # Hi there 👋
 ## My name is Kirtan Magan
 ### Here is my website: https://www.raakeshpatel.com/
-### Google Docs Clone: https://www.raakeshpatel.com/documents/home/
 ### Google Slides Clone: https://google-slides-clone.raakeshpatel.com/
 ### ToDo List Web App: https://todo-app.raakeshpatel.com/
 ### Here is my play store account: https://play.google.com/store/apps/dev?id=7922918498396614328
