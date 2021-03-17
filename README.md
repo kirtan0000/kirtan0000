@@ -4,7 +4,6 @@
 ### Google Slides Clone: https://google-slides-clone.raakeshpatel.com/
 ### Here is my play store account: https://play.google.com/store/apps/dev?id=7922918498396614328
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan0000&langs_count=8&theme=radical"></img>
 <img src = "https://github-readme-stats.vercel.app/api?username=kirtan0000&theme=radical" alt = "Metrics">
 <br>
 <img src="https://www.flaticon.com/svg/static/icons/svg/174/174854.svg" width="63" height="63"></img>
