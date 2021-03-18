@@ -5,4 +5,5 @@
 ### Here is my play store account: https://play.google.com/store/apps/dev?id=7922918498396614328
 
 <img src = "https://github-readme-stats.vercel.app/api?username=kirtan0000&theme=radical" alt = "Metrics">
-![Profile views](https://komarev.com/ghpvc/?username=kirtan0000)
+<img src = "https://komarev.com/ghpvc/?username=kirtan0000" alt = "Profile Views">
+
